@@ -1,2 +1,2 @@
 # backend-cohort-assignments
-dumping all assignments of cohort here
+dumping all backend assignments of cohort here
